@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: rgb(151, 101, 143);
+    height: 100vh;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.inbody{
+    border-top-style: double;
+    border-right: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-width: 7px;
+    background-color: burlywood;
+    border-color: rgb(14, 3, 54);
+    border-radius: 7px;
+    border-width: 25px;
+}
+
+.signin{
+    align-items: center;
+    border-style: dotted dashed solid double;
+    background-color: rgb(202, 74, 106);
+    border-width: 7px;
+    margin: 69px;
+    font-size: 25px;
+}
+
+.email{
+    margin: 22px;
+    font-size: larger;
+    background-color: rgba(92, 94, 95, 0.678);
+}
+
+.password{
+    font-size: larger;
+    background-color: rgba(92, 94, 95, 0.678);
+}
+
+.submit{
+    margin: 75px;
+    border-top-style: double;
+    border-right: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-color: darkblue;
+    background-color: rgb(86, 130, 167);
+    border-width: 4px;
+    font-size: 19px;
+    
+}
+
+.signup{
+    margin: 52px;
+    border-top-style: double;
+    border-right: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-color: darkblue;
+    background-color: rgb(86, 130, 167);
+    border-width: 4px;
+    font-size: 19px;
+}
+
